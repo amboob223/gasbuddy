@@ -1,0 +1,14 @@
+this app is called the gasplug. 
+    the app basicall bring together people who need gas and people who are willing to pump gas or bring the gas to your home and gas you up while you at home or work.
+    this means the app will have two sides one for if you want to meet someone at the gas statin and one if yuo want soome one to bring the gas to your car and gas it. 
+
+    we also got to see if this is possible but its a good idea. 
+
+I think i will design it as such.
+    - there ill be a main index componnt where the user can determine if the want to meet some one or if they want thr gas to come to there home 
+    - there will also be a componet that will take the information for people who want to sighn up to be gasbuddies who either bring gas or meet yuo at a gas station 
+    - there will need to be a review component after use 
+    - we will need to post the users and gas buddy information to a database 
+    - we will need to make get request to show the user the gasbuddies picture and info so we will need multipart data and the formdata onject from node 
+    - there will be a user side to the app that basically allows the user to see who is available and schedule a time with that person 
+    -after the arangement and payment dispensed a review page will appear for the user to leace a breif review of there service 
